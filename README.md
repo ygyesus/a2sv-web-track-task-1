@@ -45,9 +45,6 @@ todo-app/
 - **style.css**: The CSS file for styling the application.
 - **script.js**: The JavaScript file that handles the functionality of adding, editing, and removing tasks.
 
-## Contributions
-
-Feel free to submit issues or pull requests if you would like to contribute to this project.
 
 ## Screenshot
 
