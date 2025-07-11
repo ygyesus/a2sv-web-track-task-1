@@ -52,4 +52,3 @@ todo-app/
 ![Edit Existing Task Screenshot](screenshot/edit-task.png)
 
 
-```
