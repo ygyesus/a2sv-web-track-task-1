@@ -1,0 +1,26 @@
+body{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.container{
+    margin: 0;
+    margin-top: 20px;
+    padding: 0;
+}
+.task, button{
+    cursor: pointer;
+
+}
+
+.new-div{
+    display: flex;
+    gap: 5px;
+}
+
+.task-container{
+    margin-bottom: 25px;
+}
+
+.task-container button{
+    margin: 10px 10px 0px 0px;
+}
