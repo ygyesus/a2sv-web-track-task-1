@@ -24,3 +24,10 @@ body{
 .task-container button{
     margin: 10px 10px 0px 0px;
 }
+
+.task-container{
+    /* border: 3px solid black; */
+    /* color: white; */
+    background-color: lightblue;
+    max-width: 150px;
+}
